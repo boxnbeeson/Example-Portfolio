@@ -1,5 +1,5 @@
 # Example Portfolio
-  A fake portfolio created using html, css, and bootstrap. Contains an About Me, Portfolio, and non-functional Contact page.
+  An example portfolio created using html, css, and bootstrap. Contains an About Me, Portfolio, and non-functional Contact page.
   <br>
   https://jpbeeson.github.io/Example-Portfolio/
 
